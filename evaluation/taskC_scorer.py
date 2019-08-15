@@ -143,7 +143,7 @@ def read_references(filename: str) -> List[List[List[str]]]:
                     instance_id = row[0]
                     references_raw1 = row[1]
                     references_raw2 = row[2]
-                    # references_raw3 = row[3]
+                    references_raw3 = row[3]
                 except IndexError as e:
                     logging.error(
                         "Error reading value from CSV file %s on line %d: %s", filename, reader.line_num, e)
@@ -160,7 +160,7 @@ def read_references(filename: str) -> List[List[List[str]]]:
                     sys.exit(EXIT_STATUS_ANSWERS_MALFORMED)
 
                 tokens = []
-                for ref in [references_raw1, references_raw2]:
+                for ref in [references_raw1, references_raw2, references_raw3]:
                     if ref:
                         tokens.append(ref.split())
 
