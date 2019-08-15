@@ -61,3 +61,6 @@ Subtask A and B will be evaluated using **accuracy**. Subtask C will be evaluate
 - Camera ready due April 5, 2020
 - SemEval workshop Summer 2020
 
+## License
+
+The dataset is distributed under the [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/legalcode) license.
