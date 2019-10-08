@@ -4,7 +4,7 @@ This is the official repo for SemEval 2020 Task 4: Commonsense Validation and Ex
 
 This task is inspired and extension of the ACL 2019 paper: Does It Make Sense? And Why? A Pilot Study for Sense Making and Explanation. [link](https://arxiv.org/abs/1906.00363)
 
-Welcome to pariticipate on our Codalab competition [here](https://competitions.codalab.org/competitions/xxx)!
+Welcome to pariticipate on our Codalab competition [here](https://competitions.codalab.org/competitions/21080)!
 
 ## Introduction
 
