@@ -78,7 +78,7 @@ id,sent0,sent1
 77,centigrade is a measure of acidity,centigrade is a measure of temperature
 78,the ancients used a compass as a guidance,the ancients used a satellite as a guidance
 79,the fire was caused by a lighted cigarette,the fire was caused by a glass of water
-80,December is the twelfth month of a year,December is the thirteenth month of a year
+80,December is the 12th month of a year,December is the 13th month of a year
 81,a prince is a piece used in the game of chess,a king is a piece used in the game of chess
 82,maid is an important member of a family,mother is an important member of a family
 83,he opens the door with a lock,he opens the door with a key
@@ -186,7 +186,7 @@ id,sent0,sent1
 185,French fries are made of potatoes,French fries are made of oranges
 186,Mars is the most suitable homeland for human beings,Earth is the most suitable homeland for human beings
 187,Harry jumps high to throw the basketball into the basket,Harry stoops down to throw the basketball into the basket
-188,I'm thirsty so I drink fresh water,I'm thirsty so I drink sea water
+188,I'm thirsty so I drink freshwater,I'm thirsty so I drink seawater
 189,Alice is running on a playground,Alice is running on the sea
 190,Bob looks painful because he hurts his fingers,Bob looks delightful because he hurts his fingers
 191,Maria coughs when she breathes in fresh air,Maria coughs when she breathes in haze
@@ -212,7 +212,7 @@ id,sent0,sent1
 211,My heart beats slower when I quicken my pace,My heart beats faster when I quicken my pace
 212,Bob plays basketball with his cute dog,Bob plays frisbee with his cute dog
 213,Fitz uses a pen to open the lock,Fitz uses a key to open the lock
-214,Frank had a stomach ache so he drank more cold water,Frank had a stomach ache so he drank more hot water
+214,Frank had s stomachache so he drank more cold water,Frank had a stomachache so he drank more hot water
 215,Eric told a lie and his mother praised him,Eric told a lie and his mother scolded him
 216,Henry flew to the USA sitting in a car,Henry flew to the USA sitting in an airplane
 217,Carter opened the window of the airplane to get some fresh air,Carter opened the ventilator of the airplane to get some fresh air
@@ -226,7 +226,7 @@ id,sent0,sent1
 225,She boiled the egg and the egg turned into liquid,She boiled the egg and the egg turned into solid
 226,Elisa was terrified bitten by a snake,Elisa was terrified bitten by a book
 227,"In the dark, I turn on the light to read a book","In the dark, I turn off the light to read a book"
-228,Antarctica is the biggest continent in the world,Asia is the biggest continent in the world
+228,Atlantic is the biggest continent in the world,Asia is the biggest continent in the world
 229,"The cat is sitting on the blanket, because she is warm","The cat is sitting on the blanket, because it is warm"
 230,Riko drops a steel cup from the desk and the cup breaks into pieces,Riko drops a glass cup from the desk and the cup breaks into pieces
 231,Human will starve to death without eating,Human will get eventually out of power if they are unplugged
@@ -295,7 +295,7 @@ id,sent0,sent1
 294,A student can learn how to read,A student can't learn his course
 295,Everyone needs to eat,Someone can live who don't eat anything
 296,An owl can see on a dark night,A man can see on a dark night
-297,It is always cold in January in the northern hemisphere,It is always cold in July in the northern hemisphere
+297,It is always cold in January in the northern earth,It is always cold in July in the northern earth
 298,"To get a service or good, you don't have to pay money","To get a service or good, you should pay money"
 299,Cancer is a disease,Cancer can bring happiness to us
 300,people can feel pain,people can only feel happiness
@@ -329,7 +329,7 @@ id,sent0,sent1
 328,I will feel energetic after running,I will feel hungry after running
 329,my friends play computer games in the gymnasium,my friends play soccer ball in the gymnasium
 330,people feel pleasure while kissing,people feel sick while kissing
-331,I don't like climbing because I have a fear of heights,I like climbing because I have a fear of heights
+331,I don't like climbing because I fear of heights,I like climbing because I fear of heights
 332,people usually eat ice cream in summer,people usually eat ice cream in winter
 333,we wear thick clothes in winter,we wear thin clothes in winter
 334,we can see white clouds and dark clouds in the air,we can only see white clouds in the air
@@ -402,7 +402,7 @@ id,sent0,sent1
 401,a person is anxious for undesired things,A person doesn't want undesired things
 402,You are likely to find a grape in a fruit bowl,You are likely to find a potato in a fruit bowl
 403,Something you find in downtown is a volcano,Something you find in downtown is a police station
-404,His hair is shorter after a haircut,His hair is longer after a haircut
+404,His hair is getting shorter after a haircut,His hair is getting longer after a haircut
 405,He took the paper out of the printer and printed it,He put the paper in the printer and printed it
 406,taking a walk is good for health in general,taking a walk is harmful to health in general
 407,People usually eat fresh bread,People usually eat moldy bread
@@ -501,7 +501,7 @@ id,sent0,sent1
 500,Cats generally like to eat vegetables,Cats usually like fish
 501,The audiences of concerts are usually quiet,The audiences of concerts are usually noisy
 502,wild geese fly south in winter In the northern hemisphere,wild geese fly north in winter In the northern hemisphere
-503,"In nature, the leaves of all plants are oval","In nature, there are plants with square leaves"
+503,"In nature, the leaves of all plants are oval","In nature, there aren't plants with square leaves"
 504,There may be a rainbow after the rain,There may be more polluted after the rain
 505,Paralympic Games are for the disabled,The Olympic Games for the disabled
 506,Cloth bags can hold water,Cloth bags can hold money
@@ -592,7 +592,7 @@ id,sent0,sent1
 591,Burning garbage makes the environment better,Burning garbage makes the environment worse
 592,The sun ceases to shine at night,The sun shines all the time
 593,the diabetic cannot eat candy at will,the Diabetic can eat candy at will
-594,"If people have something urgent to go to a place, they usually walk","If people have something urgent to go to a place, they usually take a plane"
+594,"If people have something urgent to go to a place, they usually walk",If people have something urgent to go to a place they usually take a plane
 595,You can use the air conditioner without electricity,You can't use the air conditioner without electricity
 596,Most people don't need friends,Most people have friends
 597,Trees can have no bark,A tree cannot live without its bark
@@ -852,7 +852,7 @@ id,sent0,sent1
 851,this company makes a lot of money because of its outdated equipment,this company makes a lot of money because of its advanced equipment
 852,there are many kinds of plants in Antarctica,there are many kinds of plants in Africa
 853,Cosmetics can make me more ugly,Cosmetics can make me more beautiful
-854,A basketball is spherical,A basketball is square
+854,Basketball is spherical,Basketball is square
 855,The monitor is a part of the computer,the mirror is a part of the computer
 856,this novel is too thin to finish quickly,this novel is too thick to finish quickly
 857,People can make up in the bathroom,People can't make up in the bathroom
@@ -1018,7 +1018,7 @@ id,sent0,sent1
 1017,the impressive speech was interrupted by hiss,the impressive speech was interrupted by applause
 1018,he struggled to make his nightmare come true,he struggled to make his dream come true
 1019,he changed his job due to low salary,he changed his job due to high salary
-1020,I got a stomach ache and went to the dentist,I got a stomach ache and went to the chemist
+1020,I got a stomachache and went to the dentist's,I got a stomachache and went to the chemist's
 1021,it took 7 days to receive the email,it took 7 seconds to receive the email
 1022,he bought a cake to celebrate her birthday,he ate a cake to celebrate her birthday
 1023,he escaped the bullet and survived,he escaped the bullet and died
@@ -1144,7 +1144,7 @@ id,sent0,sent1
 1143,paul has a picture taken with two Americas,paul has a picture taken with two Americans
 1144,the boss made him do hard work all day,the boss made him do hard work all year
 1145,I heard her singing in the next city,I heard her singing in the next room
-1146,I could hear the rain pattering against the window,I could hear the rain pattering through the window
+1146,I could hear the rain pattered against the window,I could hear the rain pattered through the window
 1147,my boyfriend brought me some roses on Valentine's Day,my boyfriend grew me some roses on Valentine's Day
 1148,chris lived at the bus stop,chris waited at the bus stop
 1149,our teacher told us to make more effort in study,our teacher told us to make more mistakes in the study
@@ -1265,7 +1265,7 @@ id,sent0,sent1
 1264,the boy filled the bucket with sand,the boy filled the bucket with air
 1265,taylor downgraded her computer hardware for a better experience,taylor upgraded her computer hardware for a better experience
 1266,after a religious awakening she began to go to church,after a religious awakening she began to travel around
-1267,I put in some unnecessary things and the drawers became cluttered,I threw away some unnecessary things and the drawers became cluttered
+1267,I put in some unnecessary contents and the drawers became cluttered,I threw away some unnecessary contents and the drawers became cluttered
 1268,the student flaunted his test grade to his classmates,the student flaunted his test grade to his pets
 1269,the boy felt homesick in another country,the boy felt homesick at his parent's
 1270,she launched a rocket and then it flew up into the sky,she designed a rocket and then it flew up into the sky
@@ -1421,7 +1421,7 @@ id,sent0,sent1
 1420,curiosity is one of the reasons people travel,laziness is one of the reasons people travel
 1421,two people who hate each other will kiss,two people who love each other will kiss
 1422,a first class airline seat is for rich people,a first class airline seat is for fat people
-1423,Alice was late three times this week and the boss was very happy,Alice was late three times this week and the boss was very angry
+1423,Alice was late three times this week and the boss was very happy for it,Alice was late three times this week and the boss was very angry for it
 1424,he swims in his own swimming pool every day,he swims in his own bathtub every day
 1425,the telephone is one of the most important invitations in human history,the telephone is one of the most important inventions in human history
 1426,I poured kerosene on top of the cereal as my breakfast,I poured milk on top of the cereal as my breakfast
@@ -1497,7 +1497,7 @@ id,sent0,sent1
 1496,I carried a fork to eat soup,I carried a spoon to eat soup
 1497,"to be a husband, you need to accept strict training","to be a pilot, you need to accept strict training"
 1498,the dog barked all day and I had to wear nasal plugs,the dog barked all day and I had to wear ear plugs
-1499,I prepared a rocket to go to Mars,I prepared a rocket to go to America
+1499,I prepared a rocket to go to mars,I prepared a rocket to go to American
 1500,I will wear thicker clothes in winter to stay warm,I will wear thicker eyeglasses in winter to stay warm
 1501,I pulled the door shut with my hand,I pulled the door shut with my eye
 1502,I used my third hand to lift my coat,I used my second hand to lift my coat
@@ -1690,7 +1690,7 @@ id,sent0,sent1
 1689,wearing a party hat to attend the funeral is perfect,wearing a party hat to attend the celebration is perfect
 1690,you will feel inferior about yourself when you dress nice,you will feel better about yourself when you dress nice
 1691,I cut my hair longer at the barber's,I cut my hair shorter at the barber's
-1692,I can count the number of stars in the sky,I can count the number of moons in the sky
+1692,I can count the number of stars in the sky,I can count the number of the moon in the sky
 1693,we can't breathe in the water because I don't have gills,we can't breathe in the water because I don't have tails
 1694,I could drink the whiskey on his breath,I could smell the whiskey on his breath
 1695,I sat in the trunk of the taxi with my girlfriend,I sat in the backseat of the taxi with my girlfriend
